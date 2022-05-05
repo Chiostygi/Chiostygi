@@ -1,3 +1,5 @@
+---
 <div align="center">
-  <img src="https://i.giphy.com/media/U4ExkAvRpVQGB0NMe0/giphy.webp" width="480" height="270"/>
+  <img src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="500" height="450"/>
 </div>
+
