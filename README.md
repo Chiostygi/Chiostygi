@@ -49,6 +49,7 @@
   <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img alt="Epic Games" src="https://shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicGames&logoColor=white"/>
 </div>
 
 ---
