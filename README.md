@@ -53,6 +53,7 @@
   <img alt="Epic Games" src="https://shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicGames&logoColor=white"/>
   <img alt="Stack Overflow" src="https://shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   <img alt="LaTeX" src="https://shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img alt="Postgre SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 ---
