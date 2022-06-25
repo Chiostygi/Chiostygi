@@ -9,7 +9,7 @@
   <li> :wave: Senior Computer Science student at Ozyegin University </li>
   <li> :telescope: Interested in Software Engineering, Artificial Intelligence, Data Science, Cryptocurrencies, Economics </li>
 </ul>
-<div id="badges">
+<div align="center">
   <a href="https://www.linkedin.com/in/verep-goksel/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
