@@ -48,6 +48,7 @@
   <img alt="LaTeX" src="https://shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
   <img alt="Postgre SQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
 
 ---
