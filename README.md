@@ -54,6 +54,7 @@
   <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=matlab&logoColor=white"/>
 </div>
 
 ---
