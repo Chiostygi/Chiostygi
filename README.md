@@ -1,6 +1,6 @@
 ---
-<div align="center" id="banner_gif">
-  <img alt="Nice GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" width="500" height="450"/>
+<div align="center" id="banner_gif" >
+  <img alt="Nice GIF" src="https://media.giphy.com/media/l3E6NUe6XgK41gKMo/giphy.gif" width="500" height="500"/>
 </div>
 
 ---
