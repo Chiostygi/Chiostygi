@@ -56,6 +56,7 @@
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=matlab&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white"
 </div>
 
 ---
