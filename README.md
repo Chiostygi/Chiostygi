@@ -1,14 +1,14 @@
----
+___
+
 <div align="center" id="banner_gif" >
   <img alt="Nice GIF" src="https://media.giphy.com/media/l3E6NUe6XgK41gKMo/giphy.gif" width="500" height="500"/>
 </div>
 
 ---
-### :technologist: About Me :
-<ul>
-  <li> :wave: Senior Computer Science student at Ozyegin University </li>
-  <li> :telescope: Interested in Software Engineering, Artificial Intelligence, Data Science, Cryptocurrencies, Economics </li>
-</ul>
+
+### :computer: About Me :
+- Senior Computer Science student at Ozyegin University </li>
+- Interested in Software Engineering, Artificial Intelligence, Data Science, Cryptocurrencies, Economics </li>
 <div align="center">
   <a href="https://www.linkedin.com/in/verep-goksel/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,7 +16,9 @@
 </div>
 
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
+
 <div id="tools">
   <img alt="Brave" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -60,12 +62,13 @@
 </div>
 
 ---
+
 ### :fire: Stats :
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Chiostygi&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 <!--
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiostygi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
